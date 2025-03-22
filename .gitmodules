@@ -1,9 +1,9 @@
 [submodule "open-webui/open-webui"]
 	path = open-webui/open-webui.git
-	url = https://github.com/rgaricano/open-webui.git
+	url = https://github.com/open-webui/open-webui.git
 	branch = main
 
 [submodule "ollama"]
-        path = ollama.git
-        url = ollamahttps://github.com/rgaricano/IAI/ollama.git 
+        path = ollama
+        url = https://github.com/ollama/ollama.git 
         branch = main
