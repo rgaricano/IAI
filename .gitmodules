@@ -14,6 +14,6 @@
         branch = main
 
 [submodule "open-webui/cookbook"]
-        path = open-webui/open-webui.git
+        path = open-webui/cookbook.git
         url = https://github.com/IAI-openwebui/cookbook.git
         branch = main
