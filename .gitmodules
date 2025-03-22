@@ -1,0 +1,4 @@
+[submodule "open-webui/open-webui"]
+	path = open-webui/open-webui
+	url = ./open-webui/open-webui
+	branch = main
