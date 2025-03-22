@@ -7,3 +7,13 @@
         path = ollama
         url = https://github.com/ollama/ollama.git 
         branch = main
+
+[submodule "open-webui/docs"]
+        path = open-webui/open-webui.git
+        url = https://github.com/IAI-openwebui/docs.git
+        branch = main
+
+[submodule "open-webui/cookbook"]
+        path = open-webui/open-webui.git
+        url = https://github.com/IAI-openwebui/cookbook.git
+        branch = main
